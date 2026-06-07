@@ -14,3 +14,4 @@ class Solution:
                 current_count = 0
 
         return max_count
+    
