@@ -18,6 +18,12 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 |------|----------|--------|
 | Day 1 | Running Sum of 1D Array | ✅ |
 | Day 2 | Build Array from Permutation | ✅ |
+| Day 3 | Richest Customer Wealth | ✅ |
+| Day 4 | Kids With the Greatest Number of Candies | ✅ |
+| Day 5 | Find Numbers with Even Number of Digits | ✅ |
+| Day 6 | Max Consecutive Ones | ✅ |
+| Day 7 | Contains Duplicate | ✅ |
+| Day 8 | Missing Number | ✅ |
 
 ---
 
