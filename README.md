@@ -24,6 +24,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 6 | Max Consecutive Ones | ✅ |
 | Day 7 | Contains Duplicate | ✅ |
 | Day 8 | Missing Number | ✅ |
+| Day 9 | Single Number | ✅ |
 
 ---
 
