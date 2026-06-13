@@ -27,6 +27,8 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 9 | Single Number | ✅ |
 | Day 10 | Move Zeroes | ✅ |
 | Day 11 | Remove Duplicates from Sorted Array | ✅ |
+| Day 12 | Majority Element | ✅ |
+| Day 13 | Best Time to Buy and Sell Stock | ✅ |
 
 ---
 
