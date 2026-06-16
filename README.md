@@ -31,6 +31,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 13 | Best Time to Buy and Sell Stock | ✅ |
 | Day 14 | Two Sum | ✅ |
 | Day 15 | Valid Anagram | ✅ |
+| Day 16 | First Unique Character in a String | ✅ |
 
 ---
 
