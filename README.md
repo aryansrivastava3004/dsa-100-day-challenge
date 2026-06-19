@@ -34,6 +34,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 16 | First Unique Character in a String | ✅ |
 | Day 17 | Intersection of Two Arrays | ✅ |
 | Day 18 | Contains Duplicate II | ✅ |
+| Day 19 | Happy Number | ✅ |
 
 ---
 
