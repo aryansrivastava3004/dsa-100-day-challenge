@@ -36,6 +36,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 18 | Contains Duplicate II | ✅ |
 | Day 19 | Happy Number | ✅ |
 | Day 20 | Isomorphic Strings | ✅ |
+| Day 21 | Reverse String (344), Valid Palindrome (125) | ✅ |
 
 ---
 
