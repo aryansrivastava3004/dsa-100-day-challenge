@@ -37,6 +37,8 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 19 | Happy Number | ✅ |
 | Day 20 | Isomorphic Strings | ✅ |
 | Day 21 | Reverse String , Valid Palindrome | ✅ |
+| Day 22 | Length of Last Word , Longest Common Prefix | ✅ |
+| Day 23 | Find the Index of the First Occurrence in a String , Is Subsequence | ✅ |
 
 ---
 
