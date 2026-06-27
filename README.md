@@ -42,6 +42,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 24 | Merge Strings Alternately , Ransom Note | ✅ |
 | Day 25 | Binary Search, Search Insert Position | ✅ |
 | Day 26 | Sqrt(x), Valid Perfect Square | ✅ |
+| Day 27 | First Bad Version, Search in Rotated Sorted Array | ✅ |
 
 ---
 
