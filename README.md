@@ -45,6 +45,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 27 | First Bad Version, Search in Rotated Sorted Array | ✅ |
 | Day 28 | Find Minimum in Rotated Sorted Array, Fibonacci Number | ✅ |
 | Day 29 | Power of Two, Power of Three | ✅ |
+| Day 30 | Power of Four, Pow(x, n) | ✅ |
 
 ---
 
