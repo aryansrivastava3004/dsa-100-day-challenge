@@ -47,6 +47,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 29 | Power of Two, Power of Three | ✅ |
 | Day 30 | Power of Four, Pow(x, n) | ✅ |
 | Day 31 | Sort an Array, Merge Sorted Array | ✅ |
+| Day 32 | Squares of a Sorted Array, Sort Colors | ✅ |
 
 ---
 
