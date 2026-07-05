@@ -50,6 +50,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 32 | Squares of a Sorted Array, Sort Colors | ✅ |
 | Day 33 | Merge Intervals, Insert Interval | ✅ |
 | Day 34 | Middle of the Linked List, Linked List Cycle | ✅ |
+| Day 35 | Merge Two Sorted Lists, Palindrome Linked List | ✅ |
 
 ---
 
