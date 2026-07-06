@@ -51,6 +51,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 33 | Merge Intervals, Insert Interval | ✅ |
 | Day 34 | Middle of the Linked List, Linked List Cycle | ✅ |
 | Day 35 | Merge Two Sorted Lists, Palindrome Linked List | ✅ |
+| Day 36 | Remove Linked List Elements, Intersection of Two Linked Lists | ✅ |
 
 ---
 
