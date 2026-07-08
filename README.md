@@ -53,6 +53,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 35 | Merge Two Sorted Lists, Palindrome Linked List | ✅ |
 | Day 36 | Remove Linked List Elements, Intersection of Two Linked Lists | ✅ |
 | Day 37 | Delete Node in a Linked List, Linked List Cycle II | ✅ |
+| Day 38 | Odd Even Linked List, Swap Nodes in Pairs | ✅ |
 
 ---
 
