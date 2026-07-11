@@ -55,6 +55,8 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 37 | Delete Node in a Linked List, Linked List Cycle II | ✅ |
 | Day 38 | Odd Even Linked List, Swap Nodes in Pairs | ✅ |
 | Day 39 | Min Stack, Valid Parentheses | ✅ |
+| Day 40 | Implement Stack using Queues, Implement Queue using Stacks | ✅ |
+| Day 41 | Daily Temperatures, Baseball Game | ✅ |
 
 ---
 
