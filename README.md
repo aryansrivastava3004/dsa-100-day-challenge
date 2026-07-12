@@ -57,6 +57,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 39 | Min Stack, Valid Parentheses | ✅ |
 | Day 40 | Implement Stack using Queues, Implement Queue using Stacks | ✅ |
 | Day 41 | Daily Temperatures, Baseball Game | ✅ |
+| Day 42 | Backspace String Compare, Next Greater Element I | ✅ |
 
 ---
 
