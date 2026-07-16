@@ -61,6 +61,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 43 | Same Tree, Maximum Depth of Binary Tree | ✅ |
 | Day 44 | Combination Sum III, Symmetric Tree | ✅ |
 | Day 45 | Balanced Binary Tree, Path Sum | ✅ |
+| Day 46 | Diameter of Binary Tree, Binary Tree Level Order Traversal | ✅ |
 
 ---
 
