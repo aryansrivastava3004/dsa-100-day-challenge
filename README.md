@@ -65,6 +65,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 47 | Invert Binary Tree, Flood Fill | ✅ |
 | Day 48 | Number of Islands, Find if Path Exists in Graph | ✅ |
 | Day 49 | Binary Tree Paths, Number of Provinces | ✅ |
+| Day 50 | Validate Binary Search Tree, Search in a Binary Search Tree | ✅ |
 
 ---
 
