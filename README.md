@@ -67,6 +67,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 49 | Binary Tree Paths, Number of Provinces | ✅ |
 | Day 50 | Validate Binary Search Tree, Search in a Binary Search Tree | ✅ |
 | Day 51 | Insert into a Binary Search Tree, Kth Smallest Element in a BST | ✅ |
+| Day 52 | Lowest Common Ancestor of a BST, Lowest Common Ancestor of a Binary Tree | ✅ |
 
 ---
 
