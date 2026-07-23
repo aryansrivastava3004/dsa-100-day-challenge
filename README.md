@@ -68,6 +68,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 50 | Validate Binary Search Tree, Search in a Binary Search Tree | ✅ |
 | Day 51 | Insert into a Binary Search Tree, Kth Smallest Element in a BST | ✅ |
 | Day 52 | Lowest Common Ancestor of a BST, Lowest Common Ancestor of a Binary Tree | ✅ |
+| Day 53 | Minimum Absolute Difference in BST, Find Mode in Binary Search Tree | ✅ |
 
 ---
 
