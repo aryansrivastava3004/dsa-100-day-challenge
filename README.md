@@ -70,6 +70,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 52 | Lowest Common Ancestor of a BST, Lowest Common Ancestor of a Binary Tree | ✅ |
 | Day 53 | Minimum Absolute Difference in BST, Find Mode in Binary Search Tree | ✅ |
 | Day 55 | Binary Tree Preorder Traversal, Binary Tree Postorder Traversal | ✅ |
+| Day 56 | Sum Root to Leaf Numbers, Path Sum II | ✅ |
 
 ---
 
