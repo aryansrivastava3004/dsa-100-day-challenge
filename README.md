@@ -73,6 +73,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 55 | Binary Tree Preorder Traversal, Binary Tree Postorder Traversal | ✅ |
 | Day 56 | Sum Root to Leaf Numbers, Path Sum II | ✅ |
 | Day 57 | Sum of Left Leaves, Minimum Depth of Binary Tree | ✅ |
+| Day 58 | Binary Tree Zigzag Level Order Traversal, Populating Next Right Pointers in Each Node | ✅ |
 
 ---
 
