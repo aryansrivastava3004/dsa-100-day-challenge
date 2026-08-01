@@ -76,6 +76,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 58 | Binary Tree Zigzag Level Order Traversal, Populating Next Right Pointers in Each Node | ✅ |
 | Day 59 | Populating Next Right Pointers in Each Node II, Flatten Binary Tree to Linked List | ✅ |
 | Day 60 | Count Complete Tree Nodes, Binary Search Tree Iterator | ✅ |
+| Day 61 | Kth Largest Element in an Array, Top K Frequent Elements | ✅ |
 
 ---
 
