@@ -77,6 +77,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 59 | Populating Next Right Pointers in Each Node II, Flatten Binary Tree to Linked List | ✅ |
 | Day 60 | Count Complete Tree Nodes, Binary Search Tree Iterator | ✅ |
 | Day 61 | Kth Largest Element in an Array, Top K Frequent Elements | ✅ |
+| Day 62 | Kth Largest Element in a Stream, Last Stone Weight | ✅ |
 
 ---
 
