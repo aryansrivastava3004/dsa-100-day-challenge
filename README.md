@@ -79,6 +79,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 61 | Kth Largest Element in an Array, Top K Frequent Elements | ✅ |
 | Day 62 | Kth Largest Element in a Stream, Last Stone Weight | ✅ |
 | Day 63 | K Closest Points to Origin, Top K Frequent Words | ✅ |
+| Day 64 | Kth Smallest Element in a Sorted Matrix, Find K Closest Elements | ✅ |
 
 ---
 
