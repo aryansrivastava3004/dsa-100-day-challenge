@@ -80,6 +80,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 62 | Kth Largest Element in a Stream, Last Stone Weight | ✅ |
 | Day 63 | K Closest Points to Origin, Top K Frequent Words | ✅ |
 | Day 64 | Kth Smallest Element in a Sorted Matrix, Find K Closest Elements | ✅ |
+| Day 65 | Find Median from Data Stream, Merge k Sorted Lists | ✅ |
 
 ---
 
