@@ -83,6 +83,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 65 | Find Median from Data Stream, Merge k Sorted Lists | ✅ |
 | Day 66 | Task Scheduler, Reorganize String | ✅ |
 | Day 67 | Network Delay Time, Path With Minimum Effort | ✅ |
+| Day 68 | Path with Maximum Probability, Cheapest Flights Within K Stops | ✅ |
 
 ---
 
