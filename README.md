@@ -87,6 +87,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 69 | Number of Ways to Arrive at Destination, Second Minimum Time to Reach Destination | ✅ |
 | Day 70 | Min Cost to Connect All Points, Redundant Connection | ✅ |
 | Day 71 | Redundant Connection II, Number of Operations to Make Network Connected | ✅ |
+| Day 72 | Evaluate Division, Accounts Merge | ✅ |
 
 ---
 
