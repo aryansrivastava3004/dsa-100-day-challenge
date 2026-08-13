@@ -88,6 +88,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 70 | Min Cost to Connect All Points, Redundant Connection | ✅ |
 | Day 71 | Redundant Connection II, Number of Operations to Make Network Connected | ✅ |
 | Day 72 | Evaluate Division, Accounts Merge | ✅ |
+| Day 73 | Surrounded Regions, Pacific Atlantic Water Flow | ✅ |
 
 ---
 
