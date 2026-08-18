@@ -93,6 +93,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 75 | Shortest Path in Binary Matrix, 01 Matrix | ✅ |
 | Day 76 | Is Graph Bipartite?, Clone Graph | ✅ |
 | Day 77 | Course Schedule, Course Schedule II | ✅ |
+| Day 78 | Find Eventual Safe States, Minimum Height Trees | ✅ |
 
 ---
 
