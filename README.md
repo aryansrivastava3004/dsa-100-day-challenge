@@ -94,6 +94,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 76 | Is Graph Bipartite?, Clone Graph | ✅ |
 | Day 77 | Course Schedule, Course Schedule II | ✅ |
 | Day 78 | Find Eventual Safe States, Minimum Height Trees | ✅ |
+| Day 79 | Word Ladder, Minimum Genetic Mutation | ✅ |
 
 ---
 
