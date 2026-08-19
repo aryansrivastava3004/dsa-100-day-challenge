@@ -1,0 +1,71 @@
+# Day 79 - Word Ladder & Minimum Genetic Mutation
+
+## Problems
+
+### 1. LeetCode 127 - Word Ladder
+
+**Topic:** Graphs, BFS, Shortest Path
+
+### Approach
+
+Treat every word as a node in a graph. Two words are considered connected if they differ by exactly one character.
+
+Use BFS starting from `beginWord` and generate all possible one-character transformations. Since every transformation has the same cost, BFS guarantees the shortest transformation sequence.
+
+### What I Learned
+
+- Converting transformation problems into graph problems
+- Using BFS to find the shortest path
+- Generating neighboring states dynamically
+- Recognizing implicit graphs
+
+### Complexity
+
+- **Time Complexity:** O(N × L × 26)
+- **Space Complexity:** O(N × L)
+
+> N = number of words  
+> L = length of each word
+
+---
+
+### 2. LeetCode 433 - Minimum Genetic Mutation
+
+**Topic:** Graphs, BFS, Shortest Path
+
+### Approach
+
+Treat every valid gene sequence as a node. Two genes are connected when they differ by exactly one character.
+
+For every position, try replacing the character with one of the four valid bases: `A`, `C`, `G`, and `T`.
+
+Use BFS to find the minimum number of mutations required to reach the target gene.
+
+### What I Learned
+
+- Applying BFS to transformation problems
+- Generating valid neighboring states
+- Using a restricted character set
+- Finding minimum transformations efficiently
+
+### Complexity
+
+- **Time Complexity:** O(N × L × 4)
+- **Space Complexity:** O(N × L)
+
+> N = number of genes  
+> L = gene length
+
+---
+
+## Overall Learning
+
+Today's problems showed that shortest-path problems don't always look like traditional graphs.
+
+Both problems hide a graph inside a transformation process. Words or gene sequences become nodes, and changing one character creates an edge between them.
+
+The biggest takeaway was learning to recognize **implicit graphs** and understanding when BFS can be used to find the minimum number of transformations.
+
+## Status
+
+✅ Both problems accepted on LeetCode.
