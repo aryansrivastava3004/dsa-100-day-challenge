@@ -96,6 +96,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 78 | Find Eventual Safe States, Minimum Height Trees | ✅ |
 | Day 79 | Word Ladder, Minimum Genetic Mutation | ✅ |
 | Day 80 | Reorder Routes to Make All Paths Lead to the City Zero, Nearest Exit from Entrance in Maze | ✅ |
+| Day 81 | Keys and Rooms, Possible Bipartition | ✅ |
 
 ---
 
