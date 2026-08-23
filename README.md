@@ -98,6 +98,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 80 | Reorder Routes to Make All Paths Lead to the City Zero, Nearest Exit from Entrance in Maze | ✅ |
 | Day 81 | Keys and Rooms, Possible Bipartition | ✅ |
 | Day 82 | Snakes and Ladders, Shortest Bridge | ✅ |
+| Day 83 | Convert Sorted List to Binary Search Tree, Delete Node in a BST | ✅ |
 
 ---
 
