@@ -99,6 +99,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 81 | Keys and Rooms, Possible Bipartition | ✅ |
 | Day 82 | Snakes and Ladders, Shortest Bridge | ✅ |
 | Day 83 | Convert Sorted List to Binary Search Tree, Delete Node in a BST | ✅ |
+| Day 84 | Recover Binary Search Tree, Convert Sorted Array to Binary Search Tree | ✅ |
 
 ---
 
