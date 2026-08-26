@@ -101,6 +101,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 83 | Convert Sorted List to Binary Search Tree, Delete Node in a BST | ✅ |
 | Day 84 | Recover Binary Search Tree, Convert Sorted Array to Binary Search Tree | ✅ |
 | Day 85 | Construct Binary Tree from Preorder and Inorder Traversal, Construct Binary Tree from Inorder and Postorder Traversal | ✅ |
+| Day 86 | Binary Tree Maximum Path Sum, Path Sum III | ✅ |
 
 ---
 
