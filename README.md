@@ -104,6 +104,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 86 | Binary Tree Maximum Path Sum, Path Sum III | ✅ |
 | Day 87 | Maximum Width of Binary Tree, Find Largest Value in Each Tree Row | ✅ |
 | Day 88 | Find Bottom Left Tree Value, Check Completeness of a Binary Tree | ✅ |
+| Day 89 | Binary Tree Level Order Traversal II, Construct Binary Tree from Preorder and Postorder Traversal | ✅ |
 
 ---
 
