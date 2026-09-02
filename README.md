@@ -108,6 +108,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 90 | Subtree of Another Tree, Maximum Binary Tree | ✅ |
 | Day 91 | Binary Tree Inorder Traversal, Find Duplicate Subtrees | ✅ |
 | Day 92 | Merge Two Binary Trees, Binary Tree Pruning | ✅ |
+| Day 93 | Longest Univalue Path, All Nodes Distance K in Binary Tree | ✅ |
 
 ---
 
