@@ -111,6 +111,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 93 | Longest Univalue Path, All Nodes Distance K in Binary Tree | ✅ |
 | Day 94 | Trim a Binary Search Tree, Increasing Order Search Tree | ✅ |
 | Day 95 | Range Sum of BST, Two Sum IV - Input is a BST | ✅ |
+| Day 96 | Second Minimum Node In a Binary Tree, Construct Binary Search Tree from Preorder Traversal | ✅ |
 
 ---
 
