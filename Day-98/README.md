@@ -1,23 +1,55 @@
-🚀 Day 98/100 — 100 Days Coding Challenge | 7 September 2026
+# Day 98 — Binary Trees & BST
 
-98 days. 196 problems. 2 days left. 🔥
+## Problems
 
-Today's focus was on Binary Trees and BSTs, with two problems that required thinking carefully about traversal order and subtree values.
+1. Convert BST to Greater Tree
+2. Distribute Coins in Binary Tree
 
-Solved:
+## Topic
 
-📌 Convert BST to Greater Tree — LeetCode 538
-📌 Distribute Coins in Binary Tree — LeetCode 979
+Binary Trees, Binary Search Trees, DFS, Postorder Traversal
 
-What I learned:
+## Approach
 
-🔹 Reverse inorder traversal can process BST nodes from largest to smallest.
-🔹 A running sum can efficiently convert a BST into a Greater Tree.
-🔹 In tree problems, subtree balance can help calculate the required operations.
-🔹 Postorder traversal is useful when a node depends on information from its children.
+### Convert BST to Greater Tree
+Used reverse inorder traversal (Right → Root → Left).
+Since a BST gives values in descending order with reverse inorder,
+a running sum can be used to update each node.
 
-Today's biggest takeaway was that choosing the right traversal order can make a complex tree problem much simpler.
+### Distribute Coins in Binary Tree
+Used postorder DFS to calculate the balance of each subtree.
+The balance represents extra coins or the number of coins needed.
+The absolute balance contributes to the number of moves.
 
-98 days completed. 2 to go. 🚀
+## What I Learned
 
-#DrGViswanathan #100DaysOfCode #Day98 #Python #DSA #LeetCode #BinaryTrees #BST #Algorithms #Programming #LearningInPublic #ComputerScience #DrGViswanathanchallenge
+- Reverse inorder traversal is useful for processing BST nodes
+  from largest to smallest.
+- A running sum can efficiently transform a BST.
+- Postorder traversal helps when a node depends on information
+  from its children.
+- Subtree balance can be used to calculate tree operations.
+
+## Difficulty Faced
+
+Understanding how traversal order affects the solution and
+how subtree balance represents coin movement.
+
+## Complexity
+
+### Convert BST to Greater Tree
+- Time: O(n)
+- Space: O(h)
+
+### Distribute Coins in Binary Tree
+- Time: O(n)
+- Space: O(h)
+
+## Overall Learning
+
+Day 98 strengthened my understanding of DFS, tree traversal
+orders, BST properties, and subtree-based problem solving.
+
+## Status
+
+✅ Completed
