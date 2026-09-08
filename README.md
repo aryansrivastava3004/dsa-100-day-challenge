@@ -114,6 +114,7 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 96 | Second Minimum Node In a Binary Tree, Construct Binary Search Tree from Preorder Traversal | ✅ |
 | Day 97 | N-ary Tree Level Order Traversal, N-ary Tree Postorder Traversal | ✅ |
 | Day 98 | Convert BST to Greater Tree, Distribute Coins in Binary Tree | ✅ |
+| Day 99 | House Robber, House Robber II | ✅ |
 
 ---
 
