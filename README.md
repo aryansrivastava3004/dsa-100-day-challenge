@@ -115,9 +115,15 @@ Over the next 100 days, I will be consistently learning and practicing Data Stru
 | Day 97 | N-ary Tree Level Order Traversal, N-ary Tree Postorder Traversal | ✅ |
 | Day 98 | Convert BST to Greater Tree, Distribute Coins in Binary Tree | ✅ |
 | Day 99 | House Robber, House Robber II | ✅ |
+| Day 100 | Longest Increasing Subsequence, Coin Change | ✅ |
 
 ---
 
+## 🏆 Challenge Completed
+
+Days Completed: 100/100  
+Problems Solved: 179 
+Progress: 100% 🎉
 📅 Start Date: 1 June 2026
 
 🎯 Goal: Complete all 100 days with consistency and continuous improvement.
